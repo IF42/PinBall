@@ -1,2 +1,2 @@
-# PinBall
-Simple pin ball game as example of Raylib capabilities
+# Ping Ball
+Jednoduchá hra demonstrující vlastnosti knihovny Raylib
